@@ -1,10 +1,4 @@
-package lesson_4;
-
-import com.codeborne.selenide.SelenideElement;
-import com.github.javafaker.Faker;
-
-import java.awt.*;
-import java.util.Locale;
+package lesson_5;
 
 import static com.codeborne.selenide.Selenide.$;
 

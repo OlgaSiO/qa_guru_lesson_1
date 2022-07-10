@@ -1,4 +1,4 @@
-package lesson_4;
+package lesson_5;
 
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$x;

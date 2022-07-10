@@ -1,4 +1,4 @@
-package lesson_4;
+package lesson_5;
 
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.Test;
@@ -8,10 +8,7 @@ import pages.SuccessFormRegistration;
 import java.io.File;
 import java.util.Locale;
 
-import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Condition.visible;
-import static com.codeborne.selenide.Selenide.*;
-import static lesson_4.TestData.*;
+import static lesson_5.TestData.*;
 
 public class RegistrationPageWithPageObjectsTests extends TestBase {
     RegistrationPage registrationPage = new RegistrationPage();
